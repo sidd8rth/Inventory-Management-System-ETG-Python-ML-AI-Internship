@@ -19,7 +19,7 @@ Repository contains 3 .ipynb file and two json files i.e. record.json file and s
            <p>          Inventory of products available in shop are here</p>
 </details>
 <details>
-           <summary>inventory_management_code.ipynb</summary>
+           <summary>sales.json</summary>
            <p>       Quantity of products sole and totatl revenue is here</p>
 </details>
 
