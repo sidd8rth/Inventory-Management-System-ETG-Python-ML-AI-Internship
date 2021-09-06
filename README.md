@@ -1,6 +1,6 @@
 # Inventory-Management-System-ETG-Python-ML-AI-Internship
 
-Repository contains 3 .ipynb file and one record.json file.
+Repository contains 3 .ipynb file and two json files i.e. record.json file and slaes.json file.
 
 <details>
            <summary>adding_updating_items.ipynb</summary>
@@ -14,7 +14,14 @@ Repository contains 3 .ipynb file and one record.json file.
            <summary>inventory_management_code.ipynb</summary>
            <p>          Actual code for inventory and sales when customer buy a productit shows the product bought and total bill of that customer</p>
 </details>
-
+<details>
+           <summary>records.json</summary>
+           <p>          Inventory of products available in shop are here</p>
+</details>
+<details>
+           <summary>inventory_management_code.ipynb</summary>
+           <p>       Quantity of products sole and totatl revenue is here</p>
+</details>
 
 To run this repo you have to use jupyter notebook.<br/>
 Just download the repo go to the folder and run "jupyter notebook" in cmdline.<br/>
